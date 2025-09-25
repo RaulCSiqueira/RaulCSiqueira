@@ -57,6 +57,7 @@ I also have a strong background in **DevOps** and **network infrastructure**, wi
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 
-### My Main DIO Project Challenges
+### Connect with me on LinkedIn
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Linkedin: Raul Cesar Siqueira](https://img.shields.io/badge/-Raul%20Cesar%20Siqueira-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-cesar-siqueira-34b363b4/)](https://www.linkedin.com/in/raul-cesar-siqueira-34b363b4/)
+
